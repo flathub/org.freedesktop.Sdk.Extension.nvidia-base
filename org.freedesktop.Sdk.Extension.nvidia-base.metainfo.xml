@@ -12,4 +12,9 @@
       Base extension with pre-built static libraries to be used by the NVIDIA driver extension for Flatpak (https://github.com/flathub/org.freedesktop.Platform.GL.nvidia) to speed up packaging time.
     </p>
   </description>
+  <releases>
+    <release version="3.7.8" date="2025-03-20">
+      <description></description>
+    </release>
+  </releases>
 </component>
