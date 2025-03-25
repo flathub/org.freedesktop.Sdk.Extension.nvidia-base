@@ -45,8 +45,8 @@ modules:
       - --disable-shared
     sources:
       - type: archive
-        url: https://github.com/tukaani-project/xz/releases/download/v5.6.4/xz-5.6.4.tar.xz
-        sha256: 829ccfe79d769748f7557e7a4429a64d06858e27e1e362e25d01ab7b931d9c95
+        url: https://github.com/tukaani-project/xz/releases/download/v5.8.0/xz-5.8.0.tar.xz
+        sha256: 05ecad9e71919f4fca9f19fbbc979ea28e230188ed123dc6f06b98031ea14542
         x-checker-data:
           type: anitya
           project-id: 5277
