@@ -94,8 +94,8 @@ modules:
       - --without-mbedtls
     sources:
       - type: archive
-        url: https://github.com/libarchive/libarchive/releases/download/v3.7.8/libarchive-3.7.8.tar.xz
-        sha256: 32a51747527e01f50d0e06abad0fe0b95b6fa40b8fc173c48b8bd97d0f743330
+        url: https://github.com/libarchive/libarchive/releases/download/v3.7.9/libarchive-3.7.9.tar.xz
+        sha256: ed8b5732e4cd6e30fae909fb945cad8ff9cb7be5c6cdaa3944ec96e4a200c04c
         x-checker-data:
           type: anitya
           project-id: 1558
